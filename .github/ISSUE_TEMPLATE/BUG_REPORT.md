@@ -10,7 +10,7 @@ assignees: ''
 Tick the appropriate box by adding an x in between the [] e.g. [x] to ID the status-->
 - [ ] I have reset Atom to defaults prior to submitting report.
 - [ ] I have not reset Atom to defaults prior to submitting report.
-- [ ] I have tried uninstalling/reinstalling terminus/termination.
+- [ ] I have tried uninstalling/reinstalling the terminal.
 - [ ] I have not tried uninstalling/reinstalling the terminal.
 ### Description
 <!-- Add a description of the issue you are facing. -->
@@ -56,5 +56,5 @@ Terminal version:
 
 
 ### Additional context
-<!-- Add any additional information like screenshots, gif captures,
+<!-- Atom bug reports go here WITH any additional information like screenshots, gif captures
 configuration, data or other Atom package lists, that might be necessary to reproduce the issue. -->
