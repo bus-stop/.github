@@ -2,7 +2,7 @@
 name: "\U0001F60D Feature request"
 about: I would like to suggest an idea for the terminal
 title: '[FR] '
-labels: 'feature-request :heart_eyes:'
+labels: 'feature request :heart_eyes:'
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: "\U0001F41B Bug report"
 about: I want to report a problem encountered while using the terminal
 title: '[BR] '
-labels: 'bug-report :bug:'
+labels: 'bug report :bug:'
 assignees: ''
 
 ---
