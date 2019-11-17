@@ -54,3 +54,14 @@ See issue talk at https://github.com/StylishThemes/.github/issues/4
 
 2. Disallowing blank issues via `config.yml` -> `blank_issue_enabled: false` does not work,
 either at org or local level.
+
+### What are the Issue label prefixes and are they for
+I mean we already use labels right?
+
+These are fallbacks for the [known issue #1](#known-github-issues) above
+In case people don't realize it and are not adding the labels removed by issue back. 
+
+
+`[BR]` Bug report
+`[FR]` Feature request
+`[IR]` Information request (inquiry)
