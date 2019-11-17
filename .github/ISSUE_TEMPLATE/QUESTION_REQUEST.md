@@ -1,12 +1,13 @@
 ---
 name: "\U00002753 Ask question"
 about: I have a question about the terminal
-title: '[ER] '
+title: '[IR] '
 labels: 'inquiry :question:'
 assignees: ''
 
 ---
-<!-- Please fill all fields of this template do not ignore them -->
+<!-- Please fill all fields of this template do not ignore them
+     DO NOT REMOVE THE TITLE PREFIX -->
 ### I would like to be able do the following
 <!-- Fill in the numbered steps below with the information required until
 the question you are submitting becomes apparent. You can add more steps as needed. -->

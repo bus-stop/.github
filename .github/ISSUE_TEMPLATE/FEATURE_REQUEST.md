@@ -6,7 +6,8 @@ labels: 'feature request :heart_eyes:'
 assignees: ''
 
 ---
-<!-- Please fill all fields of this template do not ignore them -->
+<!-- Please fill all fields of this template do not ignore them 
+     DO NOT REMOVE THE TITLE PREFIX -->
 ### Describe the feature you'd like
 <!-- Add a description of the feature you have in mind. -->
 

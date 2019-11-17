@@ -7,6 +7,7 @@ assignees: ''
 
 ---
 <!-- Fill all fields of the issue template, without, issue will likely be closed.
+     DO NOT REMOVE THE TITLE PREFIX
 Tick the appropriate box by adding an x in between the [] e.g. [x] to ID the status-->
 - [ ] I have reset Atom to defaults prior to submitting report.
 - [ ] I have not reset Atom to defaults prior to submitting report.
