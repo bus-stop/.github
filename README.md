@@ -44,6 +44,7 @@ These wont magically appear in existing repositories, though, so here is a key t
 | `waiting on user feedback :mega:` | When waiting for a reply from user         | #bbcc44 |
 | `windows :door:`                  | A Windows issue is loose                   | #dbdbdb |
 | `wontfix :cry:`                   | This will not be worked on                 | #555555 |
+| `unable to duplicate !!`          | When the issue cannot be duplicated        | #ffcc33 |
 
 ### Known GitHub issues:
 
