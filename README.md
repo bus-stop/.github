@@ -45,6 +45,7 @@ These wont magically appear in existing repositories, though, so here is a key t
 | `windows :door:`                  | A Windows issue is loose                   | #dbdbdb |
 | `wontfix :cry:`                   | This will not be worked on                 | #555555 |
 | `unable to duplicate !!`          | When the issue cannot be duplicated        | #ffcc33 |
+| `confirmed issue !!`              | When the issue is know or duplicated       | #335533 |
 
 ### Known GitHub issues:
 
