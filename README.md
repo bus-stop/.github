@@ -31,6 +31,7 @@ These wont magically appear in existing repositories, though, so here is a key t
 | `beta :sparkles:`                 | Something is beta in this issue            | #aa3322 |
 | `bug fix :space_invader:`         | When something is being fixed              | #cccccc |
 | `bug report :bug:`                | When something isn't working               | #bb0000 |
+| `confirmed issue !!`              | When the issue is known or duplicated      | #335533 |
 | `documentation :memo:`            | Improvements or additions to documentation | #0075ca |
 | `duplicate :sheep::sheep:`        | This issue or pull request already exists  | #554444 |
 | `enhancement :gear:`              | Improvements or feature being added        | #3d6fc6 |
@@ -38,17 +39,16 @@ These wont magically appear in existing repositories, though, so here is a key t
 | `feature request :heart_eyes:`    | Some feature could be added                | #447733 |
 | `good first issue :bee:`          | Good for newcomers                         | #770055 |
 | `help-wanted :sos:`               | Extra attention or help is needed          | #eeaaaa |
-| `question :question:`             | Further information is requested           | #bbbbcc |
 | `invalid :no_entry_sign:`         | Invalid issue or pull request              | #e4e669 |
 | `linting :heavy_check_mark:`      | Linting related pr or issue                | #e4e669 |
 | `linux :penguin:`                 | A Linux issue is loose                     | #dbdbdb |
 | `macOS :green_apple:`             | A macOS issue is loose                     | #dbdbdb |
+| `question :question:`             | Further information is requested           | #bbbbcc |
+| `unable to duplicate !!`          | When the issue cannot be duplicated        | #ffcc33 |
+| `W.I.P. :construction:`           | In progress and not ready for merging      | #666666 |
 | `waiting on user feedback :mega:` | When waiting for a reply from user         | #bbcc44 |
 | `windows :door:`                  | A Windows issue is loose                   | #dbdbdb |
-| `W.I.P. :construction:`           | In progress and not ready for merging      | #666666 |
 | `wontfix :cry:`                   | This will not be worked on                 | #555555 |
-| `unable to duplicate !!`          | When the issue cannot be duplicated        | #ffcc33 |
-| `confirmed issue !!`              | When the issue is known or duplicated      | #335533 |
 
 ### Known GitHub issues:
 
