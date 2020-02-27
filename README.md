@@ -15,9 +15,10 @@ To use these templates within the bus-stop organization, do the following.
 
    `bug report :bug:`<br>
    `feature request :heart_eyes:`<br>
-   `inquiry :question:`<br>
+   `question :question:`<br>
 
-You can pick any color you prefer but there are preset colors, see below:
+You can pick any color you prefer! 
+For consistency bus-top has available preset labels/descriptions and colors, see below:
 
 ### Issue labels available
 
@@ -67,4 +68,4 @@ In case people don't realize it and are not adding the labels removed by issue b
 
 `[BR]` Bug report
 `[FR]` Feature request
-`[IR]` Information request (inquiry)
+`[Q]` Information request (question)

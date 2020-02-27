@@ -1,7 +1,7 @@
 ---
 name: "\U00002753 Ask question"
 about: I have a question about the terminal
-title: '[IR] '
+title: '[Q] '
 labels: 'question :question:'
 assignees: ''
 
