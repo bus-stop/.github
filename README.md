@@ -40,6 +40,7 @@ These wont magically appear in existing repositories, though, so here is a key t
 | `help-wanted :sos:`               | Extra attention or help is needed          | #eeaaaa |
 | `question :question:`             | Further information is requested           | #bbbbcc |
 | `invalid :no_entry_sign:`         | Invalid issue or pull request              | #e4e669 |
+| `linting :heavy_check_mark:`      | Linting related pr or issue                | #e4e669 |
 | `linux :penguin:`                 | A Linux issue is loose                     | #dbdbdb |
 | `macOS :green_apple:`             | A macOS issue is loose                     | #dbdbdb |
 | `waiting on user feedback :mega:` | When waiting for a reply from user         | #bbcc44 |
