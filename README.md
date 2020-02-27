@@ -43,6 +43,7 @@ These wont magically appear in existing repositories, though, so here is a key t
 | `macOS :green_apple:`             | A macOS issue is loose                     | #dbdbdb |
 | `waiting on user feedback :mega:` | When waiting for a reply from user         | #bbcc44 |
 | `windows :door:`                  | A Windows issue is loose                   | #dbdbdb |
+| `W.I.P. :construction:`           | In progress and not ready for merging      | #666666 |
 | `wontfix :cry:`                   | This will not be worked on                 | #555555 |
 | `unable to duplicate !!`          | When the issue cannot be duplicated        | #ffcc33 |
 | `confirmed issue !!`              | When the issue is known or duplicated       | #335533 |
