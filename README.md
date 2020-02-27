@@ -37,7 +37,7 @@ These wont magically appear in existing repositories, though, so here is a key t
 | `feature request :heart_eyes:`    | Some feature could be added                | #447733 |
 | `good first issue :bee:`          | Good for newcomers                         | #770055 |
 | `help-wanted :sos:`               | Extra attention or help is needed          | #eeaaaa |
-| `inquiry :question:`              | Further information is requested           | #bbbbcc |
+| `question :question:`             | Further information is requested           | #bbbbcc |
 | `invalid :no_entry_sign:`         | Invalid issue or pull request              | #e4e669 |
 | `linux :penguin:`                 | A Linux issue is loose                     | #dbdbdb |
 | `macOS :green_apple:`             | A macOS issue is loose                     | #dbdbdb |
