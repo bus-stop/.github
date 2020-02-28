@@ -6,7 +6,7 @@ labels: 'question :question:'
 assignees: ''
 
 ---
-<!-- Please fill all fields of this template do not ignore them
+<!-- Please fill all fields of this template it will helps us help you better.
      DO NOT REMOVE THE TITLE PREFIX -->
 ### I would like to be able do the following
 <!-- Fill in the numbered steps below with the information required until

@@ -6,9 +6,10 @@ labels: 'bug report :bug:'
 assignees: ''
 
 ---
-<!-- Fill all fields of the issue template, without, issue will likely be closed.
+<!-- Please fill all fields of this template it will helps us help you better.
      DO NOT REMOVE THE TITLE PREFIX
-Tick the appropriate box by adding an x in between the [] e.g. [x] to ID the status-->
+     Check the appropriate box below to the one that most suits the pull request. 
+     To check, type an x in between the [ ] with no spaces i.e. GOOD -> [x] BAD -> [x ] OR [ x]-->
 - [ ] I have reset Atom to defaults prior to submitting report.
 - [ ] I have not reset Atom to defaults prior to submitting report.
 - [ ] I have tried uninstalling/reinstalling the terminal.
